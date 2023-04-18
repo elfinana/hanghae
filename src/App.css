@@ -1,0 +1,32 @@
+.app-style {
+  padding: 30px;
+  display: flex;
+  gap: 12px;
+}
+.component-style {
+  width: 200px;
+  height: 100px;
+  font-size: 20px;
+  background-color: rgb(229, 183, 247);
+  border: 3px solid rgb(152, 18, 255);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.btn-style {
+  background-color: rgb(229, 183, 247);
+  width: 50;
+  margin: 0 auto;
+  margin-top: 4rem;
+  border: 3px solid rgb(152, 18, 255);
+  padding: 1rem;
+}
+
+
+.inner-style {
+  background-color: rgb(152, 55, 190);
+  color: white;
+}
+
